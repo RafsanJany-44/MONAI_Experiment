@@ -1,0 +1,21 @@
+dicom_initial
+	images
+		images_sleephen_2
+		images_sleephen_3
+	labels
+		labels_sleephen_2
+		labels_sleephen_3
+
+
+dicom_final
+	images
+		[auto generated]
+	labels
+		[auto generated]
+	
+
+nifti_initial
+	images
+		[auto gen]
+	lables
+		[auto gen]
